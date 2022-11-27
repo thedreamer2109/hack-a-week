@@ -33,7 +33,7 @@ class _HomeScreenState extends State<HomeScreen> {
           //  decoration: InputDecoration(hintText: 'Search Location'),
           //),
           Container(
-            height: 300.0,
+            height: 500.0,
             child: GoogleMap(
               mapType: MapType.normal,
               myLocationEnabled: true,
@@ -50,35 +50,20 @@ class _HomeScreenState extends State<HomeScreen> {
               children: [
                 IconButton(
                   iconSize: 100,
-                  icon: Icon(Icons.mail),
-
+                  icon: Icon(Icons.emergency,color: Colors.red,),
                   onPressed: () {},
-                  // Navigator.of(context).push(
-                  //   MaterialPageRoute(
-                  //     builder: (BuildContext context) {
-                  //       return const AccidentsEmergency();//accidents emergency
                 ),
                 IconButton(
                   iconSize: 100,
-                  icon: Icon(Icons.mail),
-
-                  // simple map button
+                  icon: Icon(Icons.emergency,color: Colors.yellow,),
                   onPressed: () {},
-                  // Navigator.of(context).push(
-                  //   MaterialPageRoute(
-                  //     builder: (BuildContext context) {
-                  //       return const moderateEmergency();//accidents emergency
+                 
                 ),
                 IconButton(
                   iconSize: 100,
-                  icon: Icon(Icons.mail),
-
-                  // simple map button
+                  icon: Icon(Icons.emergency,color: Colors.green,),
                   onPressed: () {},
-                  // Navigator.of(context).push(
-                  //   MaterialPageRoute(
-                  //     builder: (BuildContext context) {
-                  //       return const mildEmergency();//accidents emergency
+                  
                 ),
               ],
             ),
