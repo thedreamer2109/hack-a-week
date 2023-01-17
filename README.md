@@ -19,7 +19,7 @@ This is integral to understand the place the user is precisely positioned
 -Drivers details would be provided to the user.
 	This displays: a photo of your driver, the vehicle’s make, model and license plate number.
 - Getting time of arrival of the ambulance at the pickup point and having a hassle-free trip to your destination.
--Information about blood availability
+*Information about blood availability
 	To connect, digitize and streamline the workflow of bloodbanks across the nation. You can get information about nearby camps, bloodbanks, blood donors etc..
 -Prioritise the severity of the situation of the user
 -Doctor and mattress availability in hospitals close to the region supplied to driver
