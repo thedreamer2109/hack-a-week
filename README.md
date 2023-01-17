@@ -8,10 +8,10 @@ An app which can track all the ambulances in a locality.
 Whenever there is a scientific emergency , with the aid of the use of this app we can get the close by ambulance in shortest viable time.
 The app consists of following elements as well:
 
-*Notify police forces
-*Lead through least site visitors area(route optimisation)
-*Bed and health practitioner availability in precise hospital
-*Different priorities for fundamental and emergency needs
+- Notify police forces
+- Lead through least site visitors area(route optimisation)
+- Bed and health practitioner availability in precise hospital
+- Different priorities for fundamental and emergency needs
 
 An undertaking used to be initiated by way of the authorities of Kerala to tune all government ambulances in the state (accessible solely to the government). We advise to create an app to track ambulances (government and private) in a locality which is accessible to the users. It allows customers to contact the nearest ambulances in the shortest time. The app consists of the following features:
 - Creating a user communication platform with the driver of the ambulance
